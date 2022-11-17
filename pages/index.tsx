@@ -40,7 +40,7 @@ const Home: FC<socialTypesProps> = ({ socials }) => {
       <Head>
         <title>Home</title>
       </Head>
-      <Heading text="Next.js Application" />
+      <Heading text="Next.js Applic" />
       <Socials socials={socials} />
       {/* <div style={{ display: "flex", justifyContent: "center" }}>
         <Image
